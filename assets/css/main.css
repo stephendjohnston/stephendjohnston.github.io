@@ -131,6 +131,7 @@ input, select, textarea {
 	}
 
 	p {
+		font-size: 20px;
 		margin: 0 0 2em 0;
 	}
 
